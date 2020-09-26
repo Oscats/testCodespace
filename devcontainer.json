@@ -1,4 +1,6 @@
 // .devcontainer/devcontainer.json
+//This is borrowed from Evan Pratten's excellent tutorial found here...
+//https://retrylife.ca/blog/2020/09/10/codespaces-for-frc
 {
     // Name of the environment
     "name":"General FRC Development",
